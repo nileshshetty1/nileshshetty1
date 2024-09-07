@@ -1,9 +1,13 @@
 
-[![MasterHead](https://media3.giphy.com/media/l2qJnXbUzQAeY/200.webp?cid=ecf05e477fj4c9gf0tnx15nsnrqsei8p20h27iqekjt7wohq&ep=v1_gifs_search&rid=200.webp&ct=g)]
+
 <h1 align="center">Hi 👋, I'm Nilesh Shetty</h1>
 <h3 align="center">Building projects every other data</h3>
 
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/l2qJnXbUzQAeY/200.webp?cid=ecf05e477fj4c9gf0tnx15nsnrqsei8p20h27iqekjt7wohq&ep=v1_gifs_search&rid=200.webp&ct=g"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshshetty1&label=Profile%20views&color=0e75b6&style=flat" alt="nileshshetty1" /> </p>
+
+
 
 - 🌱 I’m currently learning **React.js, Express.js, MongoDB, Node.js**
 
