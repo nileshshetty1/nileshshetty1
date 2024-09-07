@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Nilesh Shetty</h1>
-<h3 align="center">Building projects every other data</h3>
+<h3 align="center">Building projects every other day.🤌</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/l2qJnXbUzQAeY/200.webp?cid=ecf05e477fj4c9gf0tnx15nsnrqsei8p20h27iqekjt7wohq&ep=v1_gifs_search&rid=200.webp&ct=g"/>
 
